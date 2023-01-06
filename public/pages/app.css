@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+body {
+  background-color: rgb(88, 50, 125);
+}
+
+#nav {
+  background-color: rgb(24, 15, 42);
+  padding: 24px;
+  display: flex;
+  justify-content: flex-end;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#log-out {
+  color: #fff;
+  text-decoration-line: none;
+}
+
+main{
+    display:flex;
+    justify-content: center;
+    margin-top: 100px;
+    color: #fff;    
+}
