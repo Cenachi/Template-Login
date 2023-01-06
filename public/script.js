@@ -23,7 +23,7 @@ password.onchange = (e) => {
 function submitForm() {
   if (user == "" || pass == "") {
     msgEl.style.display = "flex";
-  } else if (user == "cenachi@gmail.com" && pass == "1234") {
+  } else if (user == "cenachi" && pass == "1234") {
     msgEl.style.display = "none";
     window.location.replace("/pages/app.html");
   } else {

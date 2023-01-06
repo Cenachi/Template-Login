@@ -7,6 +7,5 @@ npm install
 Rodar o projeto:
 npm start
 
-
-Login:cenachi@gmail.com
+Login:cenachi
 Senha:1234
